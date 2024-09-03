@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj": {}
+    "c:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj": {
+    "c:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj",
+        "projectUniqueName": "c:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj",
         "projectName": "Bonk a monster",
-        "projectPath": "C:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj",
+        "projectPath": "c:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\Bonk a monster.csproj",
         "packagesPath": "C:\\Users\\julius.jansson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\obj\\",
+        "outputPath": "c:\\Users\\julius.jansson\\Desktop\\MickeB prog 2\\Bonk a monster\\Bonk a monster\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
